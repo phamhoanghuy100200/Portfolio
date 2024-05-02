@@ -43,12 +43,7 @@ export const BtnList = [
     icon: "github",
     newTab: true,
   },
-  {
-    label: "Resume",
-    link: "/CV_PhamHoangHuy.pdf",
-    icon: "resume",
-    newTab: true,
-  },
+ 
 ];
 
 
